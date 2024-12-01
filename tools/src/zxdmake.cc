@@ -4,7 +4,7 @@
  * Copyright (c) 2024 ELMH Group
  */
 
-#include <zxd.hxx>
+#include <zxd.h>
 
 /// @brief This program converts a PE32+ driver, into a custom format, the ZXD.
 /// @note ZXD is a format for ZKA signed drivers.

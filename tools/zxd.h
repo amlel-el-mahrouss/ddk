@@ -18,8 +18,8 @@
 #define kDriverExt		   ".sys"
 #define kSignedDriverMagic " ZXD"
 
-#define cZXDPaddingSize (512)
-#define cZXDMagicSize	(5)
+#define kZXDPaddingSize (512)
+#define kZXDMagicSize	(5)
 
 namespace ZXD
 {
@@ -28,9 +28,9 @@ namespace ZXD
 	/// </summary>
 	struct ZXD_HEADER final
 	{
-		char		  d_binary_padding[cZXDPaddingSize];
+		char		  d_binary_padding[kZXDPaddingSize];
 		// doesn't change.
-		char	      d_binary_magic[cZXDMagicSize];
+		char	      d_binary_magic[kZXDMagicSize];
 		std::int32_t  d_binary_version;
 		// can change.
 		char		  d_binary_name[4096];
