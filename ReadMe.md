@@ -1,15 +1,15 @@
-<!-- README of ZKA 1 -->
+<!-- README of ZKA DDK 1 -->
 
 ![ZKA](res/zka.svg)
 
 # ZKA DDK (Mark 1)
 
-DDK is ZKA's Driver Kit.
+Use this to write drivers for ZKA.
 
 ## Installation:
 
 - MinGW/GCC for the Kernel and bootloader.
-- Netwide Assembler/NDK to output COFF/PEF object code.
+- Netwide Assembler/NDK to output COFF object code.
 
 ### Start by cloning the DDK:
 
