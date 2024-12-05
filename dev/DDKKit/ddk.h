@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-	Copyright ELMH Group.
+	Copyright Amlal EL Mahrouss.
 
 	FILE: ddk.h
 	PURPOSE: DDK Driver model base header.

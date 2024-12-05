@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-	Copyright ELMH Group.
+	Copyright Amlal EL Mahrouss.
 
 	File: dev.h
 	Purpose: DDK device support.

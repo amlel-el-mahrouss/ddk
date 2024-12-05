@@ -25,4 +25,4 @@ cd dev/DDKKit
 btb ddk.json
 ```
 
-###### Copyright ELMH Group. All rights reserved.
+###### Copyright Amlal EL Mahrouss. All rights reserved.

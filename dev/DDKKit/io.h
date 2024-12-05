@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-	Copyright ELMH Group.
+	Copyright Amlal EL Mahrouss.
 
 	Purpose: DDK Text I/O.
 
